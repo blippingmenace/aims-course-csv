@@ -1,0 +1,50 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environment variables (contains sensitive data)
+.env
+.env.local
+
+# Data files (may contain personal or sensitive information)
+*.csv
+*.json
+*.txt
+timetable.txt
+
+# Keep example files
+!courses_example.csv
+
+# Old/backup files
+old/
+backup/
+*.bak
+*.old
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS files
+Thumbs.db
+
+# Logs
+*.log
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
