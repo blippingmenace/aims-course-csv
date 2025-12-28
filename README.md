@@ -1,5 +1,8 @@
 # AIMS Course Timetable Fetcher
 
+> [!WARNING]
+> This repository may not be fully functional. Please contact the repository owner for assistance.
+
 Fetch and process course slot timings from AIMS (Academic Information Management System).
 
 ## Overview
